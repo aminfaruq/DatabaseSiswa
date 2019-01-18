@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatabaseSiswa</string>
+    <string name="action_settings">Settings</string>
+    <string name="nama_kelas">Nama kelas</string>
+    <string name="nama_wali">Nama wali</string>
+    <string name="save">save</string>
+</resources>
